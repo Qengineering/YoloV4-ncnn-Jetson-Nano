@@ -48,7 +48,7 @@ yolov4-tiny-opt.param <br/><br/>
 ------------
 
 ## Running the app.
-To run the application load the project file FaceRecognition.cbp in Code::Blocks.<br/> 
+To run the application load the project file YoloV4.cbp in Code::Blocks.<br/> 
 Next, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
 You can switch between the YoloV4 tiny and the YoloV4 full version by the define at line 26<br/>
 When deploying the full version, you have to download the 250 MB deep learning weight file yolov4-opt.bin from [Mega](https://mega.nz/file/Vsg02bJK#2h0QAd8ZUEykb6hi-yOcIAZKXnCBY0mevz8xkHYCmMM).<br/><br/>
