@@ -16,6 +16,9 @@ Special made for a Jetson Nano see [Q-engineering deep learning examples](https:
 | [YoloV4](https://github.com/Qengineering/YoloV4-ncnn-Jetson-Nano) | 416x416 tiny | 80 | 21.7 | **11.2 FPS** | 3.4 FPS |
 | [YoloV4](https://github.com/Qengineering/YoloV4-ncnn-Jetson-Nano) | 608x608 full | 80 | 45.3 | 0.7 FPS | 0.2 FPS |
 | [YoloV5](https://github.com/Qengineering/YoloV5-ncnn-Jetson-Nano) | 640x640 small| 80 | 22.5 | 4.0 FPS | 1.6 FPS |
+| [YoloX](https://github.com/Qengineering/YoloX-ncnn-Jetson-Nano) | 416x416 nano | 80 | 25.8 | 17.6 FPS | 7.0 FPS |
+| [YoloX](https://github.com/Qengineering/YoloX-ncnn-Jetson-Nano) | 416x416 tiny | 80 | 32.8 | 8.3 FPS | 2.8 FPS |
+| [YoloX](https://github.com/Qengineering/YoloX-ncnn-Jetson-Nano) | 640x640 small | 80 | 40.5 | 2.6 FPS | 0.9 FPS |
 
 ------------
 
@@ -53,5 +56,10 @@ To run the application load the project file YoloV4.cbp in Code::Blocks.<br/>
 Next, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
 You can switch between the YoloV4 tiny and the YoloV4 full version by the define at line 26<br/>
 When deploying the full version, you have to download the 250 MB deep learning weight file yolov4-opt.bin from [Mega](https://mega.nz/file/Vsg02bJK#2h0QAd8ZUEykb6hi-yOcIAZKXnCBY0mevz8xkHYCmMM).<br/><br/>
-Many thanks to [nihui](https://github.com/nihui/) again!<br/>
+Many thanks to [nihui](https://github.com/nihui/) again!<br/><br/>
 ![output image]( https://qengineering.eu/images/test_busV4.jpg )
+
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
