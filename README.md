@@ -48,8 +48,6 @@ Your *MyDir* folder must now look like this: <br/>
 parking.jpg <br/>
 busstop.jpg <br/>
 YoloV4.cpb <br/>
-yoloV4.cpp <br/>
-yolov4-opt.param <br/><br/>
 yolov4-tiny-opt.bin <br/>
 yolov4-tiny-opt.param <br/><br/>
 
